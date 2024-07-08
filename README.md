@@ -8,25 +8,23 @@ node index.js
 ## Usage
 Use an API testing tool (such as Insomnia or Postman) to make the following requests:
 
-**GET Routes:
--/api/users: Retrieve all users.
+## GET Routes:
+/api/users: Retrieve all users.
 
--/api/thoughts: Retrieve all thoughts.
+/api/thoughts: Retrieve all thoughts.
 
--POST Routes:
+## POST Routes:
 
--/api/users: Create a new user.
+/api/users: Create a new user.
 
--/api/thoughts: Create a new thought.
--PUT Routes:
--/api/users/:userId: Update a user’s information.
--/api/thoughts/:thoughtId: Update a thought.
--DELETE Routes:
--/api/users/:userId: Delete a user.
--/api/thoughts/:thoughtId: Delete a thought.
--Credits
--Class material was used as a reference when building this API.
+/api/thoughts: Create a new thought.
+## PUT Routes:
+/api/users/:userId: Update a user’s information.
+/api/thoughts/:thoughtId: Update a thought.
+DELETE Routes:
+/api/users/:userId: Delete a user.
+/api/thoughts/:thoughtId: Delete a thought.
 
 
-Questions?
+##Questions?
 If you have any questions, feel free to contact me on GitHub: https://github.com/nicoleables
