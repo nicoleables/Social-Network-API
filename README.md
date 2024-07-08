@@ -20,9 +20,12 @@ Use an API testing tool (such as Insomnia or Postman) to make the following requ
 /api/thoughts: Create a new thought.
 ## PUT Routes:
 /api/users/:userId: Update a user’s information.
+
 /api/thoughts/:thoughtId: Update a thought.
+
 DELETE Routes:
 /api/users/:userId: Delete a user.
+
 /api/thoughts/:thoughtId: Delete a thought.
 
 
