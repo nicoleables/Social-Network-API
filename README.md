@@ -1,25 +1,14 @@
 # Social-Network-API
 
-###An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This API uses Express.js for routing, a MongoDB database, and the Mongoose ODM.
+## An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This API uses Express.js for routing, a MongoDB database, and the Mongoose ODM.
 
-###Table of Contents
-#Installation
-#Usage
-#Credits
-#License
-#Contributing
-#Questions
-#Installation
-#Install dependencies by running the following command in your terminal:
-#npm install
-
-#Start the server:
+## Start the server:
 node index.js
 
-#Usage
+## Usage
 Use an API testing tool (such as Insomnia or Postman) to make the following requests:
 
-#GET Routes:
+## GET Routes:
 /api/users: Retrieve all users.
 /api/thoughts: Retrieve all thoughts.
 POST Routes:
