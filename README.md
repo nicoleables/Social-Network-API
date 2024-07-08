@@ -8,11 +8,15 @@ node index.js
 ## Usage
 Use an API testing tool (such as Insomnia or Postman) to make the following requests:
 
-## **GET Routes:**
+**GET Routes:
 -/api/users: Retrieve all users.
+
 -/api/thoughts: Retrieve all thoughts.
+
 -POST Routes:
+
 -/api/users: Create a new user.
+
 -/api/thoughts: Create a new thought.
 -PUT Routes:
 -/api/users/:userId: Update a user’s information.
